@@ -101,8 +101,9 @@ async function getGeminiResponse(prompt) {
     saveHistory();
 
     const payload = { contents: chatHistory };
-    const apiKey = "AIzaSyDWGWzNOZ5Sgl7nnzadSy9iNelvnIBE6s4";
+    const apiKey = "please create own  api key for free to use it since personal api-key should not be exposed, sorry";
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+    
 
     try {
         const response = await fetch(apiUrl, {
