@@ -1,4 +1,4 @@
-# 🧠 API-Based Chatbot (Gemini API)
+# 🧠 API-Based Chatbot 
 
 An interactive **Cloud API** based chatbot built using **HTML**, **CSS**, and **JavaScript**.  
 
